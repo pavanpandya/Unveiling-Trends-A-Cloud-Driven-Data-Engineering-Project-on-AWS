@@ -37,14 +37,14 @@ We are using the Kaggle dataset which is given: [Dataset](https://www.kaggle.com
    - Create an IAM user with appropriate permissions and attach a role for accessing AWS services.
    - Configure policies for least privilege access and fine-grained control over resources.
 
-   ![alt text](IAM-1.png)
+   ![alt text](image_ecc_1.jpg)
 
 2. **AWS CLI Setup**:
 
    - Install and configure the AWS Command Line Interface (CLI) for programmatic access to AWS services.
    - Set default configurations such as AWS region and output format.
 
-   ![alt text](Lambda-1.png)
+   ![alt text](image_ecc_2.jpg)
 
 3. **Data Ingestion**:
 
